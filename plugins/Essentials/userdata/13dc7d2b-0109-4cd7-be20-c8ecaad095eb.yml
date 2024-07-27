@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721494099474
+  login: 1721494126040
+money: '0'
+last-account-name: Rosegx879
+logoutlocation:
+  world: c9835f76-a7c2-4868-8d2e-6ff07867ea33
+  world-name: world
+  x: 520.4918006532248
+  y: 83.0
+  z: -337.33110880087946
+  yaw: 52.3927116394043
+  pitch: 26.17051124572754
